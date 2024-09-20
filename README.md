@@ -1,2 +1,3 @@
 # sep-subs-2
-# irem commit attı
+# irem commit attÄ±
+# 1.commit
